@@ -1,18 +1,3 @@
-# Installation
-* install typescript -> npm install -g typescript
-* initiate config file -> tsc --init
-* compile ts file -> tsc --noEmitOnError <file_name.ts>
-
-
-# For Enable TypeScript hints 
-* open setting -> command + ,
-* search -> typescript inlay hints
-* enable required hints
-* for more visit this site -> https://code.visualstudio.com/docs/typescript/typescript-editing
-
-
-
-
 # How to avoid running tsc command to changes into JS file to sync up with TS file
 * tsc <file_name> --watch
 
